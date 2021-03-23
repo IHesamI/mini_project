@@ -1,4 +1,7 @@
 public class Player {
-    String name;
+    String name,the_role,the_voted;
+    int voting_numbers;
+    boolean is_alive;
+    
 
 }
